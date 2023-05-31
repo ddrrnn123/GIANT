@@ -1,5 +1,5 @@
 # Gigapixel abundant-channel (GIANT) Image Analysis: Definition, Applications, and Challenges
-The full paper can be found here: ![Paper](GIANT_Image_defination.pdf)
+The full paper can be found here: [Paper](GIANT_Image_definition.pdf)
 
 ## Definition
 Image resolution and the number of channels are two critical attributes that dictate the size and complexity of an image. In this context, we introduce a category of images known as GIANT (GIgapixel AboundaNT-channel) images. Each image within this definition possesses a minimum of one billion pixels (Giga-pixels) and exceeds five channels (surpassing conventional camera/microscope images).
@@ -9,7 +9,7 @@ GIANT images are primarily obtained using advanced imaging technologies, such as
 
 GIANT images are widely applicable in fundamental scientific research, particularly in disciplines like biology, medicine, materials science, and remote sensing. Microscopic images facilitate the examination of intricate biological systems and the composition of materials, while remote sensing generates high-resolution satellite imagery. For example, the GIANT images permit the visualization of thousands of genes at the subcellular level with single-molecule sensitivity and gigapixel resolution, offering unparalleled spatial information.
 
-![Figure1](https://github.com/ddrrnn123/Omni-Seg/blob/main/GithubFigure/Overview1.png)<br />
+![Figure1](GIANT_Image_figure.png)<br />
 
 
 ## Challenges
