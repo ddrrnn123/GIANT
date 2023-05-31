@@ -9,7 +9,7 @@ GIANT images are primarily obtained using advanced imaging technologies, such as
 
 GIANT images are widely applicable in fundamental scientific research, particularly in disciplines like *biology*, *medicine*, *materials science*, and *remote sensing*. Microscopic images facilitate the examination of intricate biological systems and the composition of materials, while remote sensing generates high-resolution satellite imagery. For example, the GIANT images permit the visualization of thousands of genes at the subcellular level with single-molecule sensitivity and gigapixel resolution, offering unparalleled spatial information.
 
-![Figure1](GIANT_image_figure.png)<br />
+<img src="https://github.com/ddrrnn123/GIANT/blob/main/GIANT_image_figure.png" width="500"><br />
 
 
 ## Challenges
