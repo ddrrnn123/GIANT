@@ -1,5 +1,5 @@
 # Gigapixel abundant-channel (GIANT) Image Analysis: Definition, Applications, and Challenges
-The full paper can be found here: [Paper](GIANT_Image_definition.pdf)
+The full paper can be found here: [Paper](https://huichawaii.org/wp-content/uploads/2023/08/Huo-Yuankai-2023-HUIC-STEM.pdf)
 
 ## Definition
 Image resolution and the number of channels are two critical attributes that dictate the size and complexity of an image. In this context, we introduce a category of images known as $${\color{red}GIANT}$$ (GIgapixel AboundaNT-channel) images. Each image within this definition possesses <ins>a minimum of one billion pixels</ins> (Giga-pixels) and <ins>exceeds five channels</ins> (surpassing conventional camera/microscope images).
